@@ -6,5 +6,5 @@ sounds.forEach(sound => {
 
     btn.innerText = sound
 
-    document.getElementById('buttons').appendChild(btn)
+    document.getElementById('buttons').append
 })

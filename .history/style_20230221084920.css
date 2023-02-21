@@ -28,9 +28,7 @@ body {
     font-family: inherit;
 }
 
-.btn:hover {
-    opacity: 0.9;
-}
+.btn
 
 .btn:focus {
     outline: none;
